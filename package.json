@@ -2,7 +2,7 @@
   "name": "typescipt-pubsub",
   "version": "1.0.0",
   "description": "Simple implementation of Publisher/Subscriber pattern in typescript",
-  "main": "pubsub.ts",
+  "main": "./dist/pubsub.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
