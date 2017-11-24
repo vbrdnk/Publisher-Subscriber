@@ -1,9 +1,9 @@
 TypeScript implementation of publisher-subscriber patter
-To install library:
-```
+## Installation
+
 npm install typescript-pubsub 
-```
-or
-```
 git clone https://github.com/vbrdnk/typescirpt-pubSub.git
-```
+
+## Usage
+
+import { PubSub } from 'your_relative_path_to_package'
